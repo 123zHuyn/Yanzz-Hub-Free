@@ -1,4 +1,4 @@
-local ZypherLibrary = loadstring(game:HttpGet("https://github.com/GhostDuckyy/UI-Libraries/raw/main/Zypher%2Fsource.lua"))()
+local ZypherLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/teppyboy/RbxScripts/master/Misc/UI_Libraries/Zypher/Library.lua"))()
 
 local Window = ZypherLibrary:CreateWindow("Yanzz Hub - Doors🚪", UDim2.new(0.3, 0, 0.3, 0))
 Window:MakeScrollable()
